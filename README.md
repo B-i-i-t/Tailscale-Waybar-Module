@@ -56,6 +56,3 @@ chmod +x ~/.config/waybar/scripts/tailscale.sh
 }
 ```
 
-## License
-
-MIT
